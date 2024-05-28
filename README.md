@@ -42,6 +42,8 @@ git config --global user.name "{{GIT_USER_NAME}}"
 git config --global user.email "{{GIT_USER_EMAIL}}"
 ```
 
+Github :
+https://github.com/long0426/python-stock
 __________
 
 > [!IMPORTANT]
